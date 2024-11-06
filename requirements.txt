@@ -1,0 +1,6 @@
+numpy~=1.26.0
+tensorflow~=2.17.0
+keras~=3.6.0
+gymnasium~=1.0.0
+matplotlib~=3.9.0
+pyyaml~=6.0.0
